@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Contact Information
+
+If you'd like to connect or collaborate, feel free to reach out:
+
+- **Telegram**: [@knowhow3p](https://t.me/knowhow3p)
+- **Email**: `knowhowtoknowwhere` [at] gmail.com / outlook.com
+
 -->
